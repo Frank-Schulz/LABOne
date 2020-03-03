@@ -11,3 +11,7 @@ Variable initialization: var, let, const
 Variable Reasignment
 
 Scope: Local and Global
+Global; can accessed anywhere
+Local; can only be accessed within the local scope; or when returned to the function caller
+
+Math code located in math.js file
